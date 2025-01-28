@@ -41,7 +41,7 @@ This project is a trading bot designed to leverage liquidation data to identify 
 
 
 ```
-git clone git@github.com:ryu878/bybit_scalp_bot_v3.git
+git clone git@github.com:ryu878/Bybit_REKTrader_Bot.git
 
 conda create --name BybitScalpBotv3 -c conda-forge python=3.11
 
