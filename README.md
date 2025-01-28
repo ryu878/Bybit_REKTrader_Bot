@@ -1,2 +1,2 @@
-# Bybit_REKTrader_Bot
+# Bybit REKTrader Bot
 Bybit Liquidations Trading Robot
