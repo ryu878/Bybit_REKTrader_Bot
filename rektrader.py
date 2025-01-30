@@ -9,4 +9,17 @@
 # Web: https://aadresearch.xyz
 #
 #######################################################################################################
+from _config import *
 
+
+
+# Create list of assets to trade
+
+if asset_list_type == 'pre_filtered':
+    print(' You Have Selected Pre-Filtered Asset List')
+
+elif asset_list_type == 'all_futures':
+    print(' You Have Selected all_futures Asset List')
+    
+elif asset_list_type == 'custom_list':
+    print(' You Have Selected Custom Asset List')
